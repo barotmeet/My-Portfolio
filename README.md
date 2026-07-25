@@ -17,9 +17,7 @@
   <a href="https://barotmeet.github.io/My-Portfolio/">
     <img src="https://img.shields.io/badge/🚀_CLICK_HERE-OPEN_LIVE_PORTFOLIO-00FF66?style=for-the-badge&logoColor=black" alt="Live Portfolio Link"/>
   </a>
-  <a href="mailto:barotmeet.dev@example.com">
-    <img src="https://img.shields.io/badge/CONTACT-BAROT%20MEET-FF2E2E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
+
 
   <br><br>
 
