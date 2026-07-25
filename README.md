@@ -26,9 +26,6 @@
   <a href="https://barotmeet.github.io/My-Portfolio/">
     <img src="https://raw.githubusercontent.com/barotmeet/My-Portfolio/main/preview.png" alt="Barot Meet Portfolio Preview" width="100%" style="border-radius: 12px; border: 2px solid #FF2E2E;">
   </a>
-
-  <p><i>👉 <b><a href="https://barotmeet.github.io/My-Portfolio/">Upar banner ya image par click karke direct live 3D portfolio experience karein!</a></b></i></p>
-
 </div>
 
 ---
@@ -52,9 +49,3 @@
 | **Icons & Assets** | FontAwesome 6.4 | Clean vector system iconography |
 
 ---
-
-## 🚀 Local Installation & Setup
-
-1. **Repository Clone Karein:**
-   ```bash
-   git clone [https://github.com/barotmeet/My-Portfolio.git](https://github.com/barotmeet/My-Portfolio.git)
